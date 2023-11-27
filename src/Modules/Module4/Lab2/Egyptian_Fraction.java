@@ -1,4 +1,4 @@
-package Module4.Lab2;
+package Modules.Module4.Lab2;
 
 import java.util.*;
 
