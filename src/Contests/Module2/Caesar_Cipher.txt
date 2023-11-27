@@ -1,0 +1,22 @@
+Problem Statement
+
+Encrypt a string using a Caesar cipher
+
+You and your best friend, Emily, want to surprise your other friend, Alex, with a special gift for their birthday. To keep the gift a secret, you decide to create a secret code using a Caesar cipher. You choose a rotation of 4 letters for the encryption. The original message is: "The gift is hidden in the attic."
+Using the Caesar cipher with a rotation of 4 letters, what is the encrypted message for the secret gift code?
+
+Important Note: Ensure that you save your solution before progressing to the next question and before submitting your answer.
+
+Exercise-1
+input:
+AsdfGH
+
+output:
+EwhjKL
+
+Exercise-2
+input:
+LkjHgg
+
+output:
+PonLkk
